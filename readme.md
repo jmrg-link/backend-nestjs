@@ -1,7 +1,7 @@
 <div align="center">
   <h1>NESTJS: PROGRAMACION BACKEND</h1>
   <img src="./assets/images/nestjs.png" alt="nestjs logo" height="300px" >
-  <h3 style="font-weight:bold;" >Nest.js: Programacion Beckend (5H)</h3>
+  <h3 style="font-weight:bold;" >Nest.js: Programacion Backend (5H)</h3>
  
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
