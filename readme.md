@@ -27,7 +27,7 @@
 * Se puede lanzar el contenido del curso en OSX (Mac), Windows o Linux.
 * Conocimiento verbos http requerido.
 * Conocimiento de Git necesario.
-* **Nota :** prework usado **WebStorm**
+* **Nota :** prework usado **WebStorm** & **VScode**
 
 ## Comenzando 🚀
 
